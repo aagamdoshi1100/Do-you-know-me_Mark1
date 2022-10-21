@@ -104,11 +104,6 @@ for (i = 0; i < Dicto.length; i++) {
     name: "Parth",
     score: 4,
   },
-
-  {
-    name: "Ganesh",
-    score: 4,
-  }
 ]
        console.log("Take a screenshot share score to the delveloper to update your score ");
       console.log("");
